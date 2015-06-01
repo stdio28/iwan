@@ -58,7 +58,7 @@ if (isset($_POST['Sapu']))
 
 $jum_bayar=array_sum($harga); 
 echo "Total Bayar Anda Sebesar = Rp $jum_bayar <br>";
-
+print"<br>ini editan aku coy";
 ?>
 
 <p>
